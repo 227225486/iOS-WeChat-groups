@@ -1,0 +1,9 @@
+Package: com.example.wcgroupbar
+Name: WCGroupBar
+Version: 1.1.0+fix6
+Architecture: iphoneos-arm64
+Description: 微信会话列表顶部分组栏：全部 / 群聊 / 私聊 / 企业号 / 公众号
+Maintainer: WCGroupBar
+Author: WCGroupBar
+Section: Tweaks
+Depends: mobilesubstrate
